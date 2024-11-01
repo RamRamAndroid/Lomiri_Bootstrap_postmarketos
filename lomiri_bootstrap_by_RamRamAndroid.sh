@@ -40,7 +40,7 @@ then
 	git clone https://gitlab.postmarketos.org/postmarketOS/pmaports.git
 	echo "Uninstallation complete! You are now back to the base pmaports directory setup.
 	
-	thanks for trying my bootstrap
+	thanks for trying my bootstrap 
 	
 	RamRam_Android (Ram Jammula)"
 	cd "${originaldir}"
