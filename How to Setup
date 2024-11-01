@@ -1,0 +1,3 @@
+how to setup :
+
+Just run the tool with the --install argument to set it up. Then choose lomiri in pmbootstrap init and make sure to select "y" when prompted "Build outdated packages during 'pmbootstrap install'?.
