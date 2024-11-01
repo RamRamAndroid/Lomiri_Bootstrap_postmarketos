@@ -1,0 +1,3 @@
+how to remove my bootstrap :
+
+If you want to return to the usual pmaports, just run the script again but instead pass the --uninstall argument and the script will reset your pmaports directory. 
